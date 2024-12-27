@@ -1,0 +1,25 @@
+{
+  "name": "Deepak",
+  "title": "Full Stack Developer & AI Engineer",
+  "email": "work.deepak04@gmail.com",
+  "about": [
+    {
+      "title": "Full Stack & AI Developer",
+      "icon": "Code2",
+      "color": "text-blue-500",
+      "description": "Expert in backend development, AI engineering, and modern web technologies. Proficient in React, Node.js, and Python for AI/ML."
+    },
+    {
+      "title": "Mobile Developer",
+      "icon": "Brain",
+      "color": "text-green-500",
+      "description": "Experienced in Android development with Kotlin and Jetpack Compose. Creating intuitive and performant mobile applications."
+    },
+    {
+      "title": "Automation and Scripting",
+      "icon": "Rocket",
+      "color": "text-purple-500",
+      "description": "Skilled in creating bots, automation scripts, and debugging tools using C++, Python, and C. Professional freelancer."
+    }
+  ]
+}

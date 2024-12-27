@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "id": "fullstack",
+      "name": "Full Stack",
+      "icon": "Code2"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile Development",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "Bot"
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Powered Chat Bot",
+      "description": "Intelligent chatbot using NLP and machine learning, built with Python and TensorFlow",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "tags": ["Python", "TensorFlow", "NLP", "AI"],
+      "github": "#",
+      "demo": "#",
+      "category": "automation"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with React and Node.js",
+      "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc",
+      "tags": ["React", "Node.js", "MongoDB", "Express"],
+      "github": "#",
+      "demo": "#",
+      "category": "fullstack"
+    },
+    {
+      "title": "Task Manager App",
+      "description": "Modern Android application built with Kotlin and Jetpack Compose",
+      "image": "https://images.unsplash.com/photo-1676321685222-4dd7f2f5c64e",
+      "tags": ["Kotlin", "Jetpack Compose", "Android"],
+      "github": "#",
+      "demo": "#",
+      "category": "mobile"
+    },
+    {
+      "title": "Real-time Chat Application",
+      "description": "WebSocket-based chat platform with real-time updates",
+      "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da",
+      "tags": ["React", "Socket.io", "Express", "MongoDB"],
+      "github": "#",
+      "demo": "#",
+      "category": "fullstack"
+    },
+    {
+      "title": "Fitness Tracker",
+      "description": "Mobile app for tracking workouts and nutrition",
+      "image": "https://images.unsplash.com/photo-1676321685222-4dd7f2f5c64e",
+      "tags": ["Kotlin", "Room DB", "Material Design"],
+      "github": "#",
+      "demo": "#",
+      "category": "mobile"
+    },
+    {
+      "title": "Test Automation Suite",
+      "description": "Comprehensive test automation framework for web applications",
+      "image": "https://images.unsplash.com/photo-1665799871675-c17b831b9d4d",
+      "tags": ["Python", "Selenium", "Pytest"],
+      "github": "#",
+      "demo": "#",
+      "category": "automation"
+    }
+  ]
+}

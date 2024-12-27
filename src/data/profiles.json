@@ -1,0 +1,40 @@
+{
+  "profiles": [
+    {
+      "platform": "LeetCode",
+      "handle": "Deepaky04",
+      "stats": {
+        "rating": "1700+",
+        "solved": "300+",
+        "contests": "20+"
+      },
+      "icon": "Trophy",
+      "color": "text-yellow-500",
+      "link": "https://leetcode.com/Deepaky04"
+    },
+    {
+      "platform": "CodeChef",
+      "handle": "https://www.codechef.com/users/deepak5327",
+      "stats": {
+        "rating": "1600+",
+        "solved": "30+",
+        "contests": "10+"
+      },
+      "icon": "Star",
+      "color": "text-blue-500",
+      "link": "https://www.codechef.com/users/deepak5327"
+    },
+    {
+      "platform": "Codeforces",
+      "handle": "deepak0611",
+      "stats": {
+        "rating": "900+",
+        "solved": "19+",
+        "contests": "11+"
+      },
+      "icon": "Code2",
+      "color": "text-green-500",
+      "link": "https://codeforces.com/profile/deepak0611"
+    }
+  ]
+}

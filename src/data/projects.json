@@ -27,20 +27,20 @@
       "category": "automation"
     },
     {
-      "title": "E-Commerce Platform",
-      "description": "Full-stack e-commerce solution with React and Node.js",
+      "title": "Codeassist",
+      "description": "Full-stack platform for coding and competitions with React and Node.js",
       "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc",
       "tags": ["React", "Node.js", "MongoDB", "Express"],
-      "github": "#",
-      "demo": "#",
+      "github": "https://github.com/Deepak6204/codeassist_node_fullstack",
+      "demo": "https://codeassistlive.netlify.app/",
       "category": "fullstack"
     },
     {
-      "title": "Task Manager App",
+      "title": "Cab Pooling App",
       "description": "Modern Android application built with Kotlin and Jetpack Compose",
       "image": "https://images.unsplash.com/photo-1676321685222-4dd7f2f5c64e",
       "tags": ["Kotlin", "Jetpack Compose", "Android"],
-      "github": "#",
+      "github": "https://github.com/Deepak6204/CoRide",
       "demo": "#",
       "category": "mobile"
     },
@@ -49,7 +49,7 @@
       "description": "WebSocket-based chat platform with real-time updates",
       "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da",
       "tags": ["React", "Socket.io", "Express", "MongoDB"],
-      "github": "#",
+      "github": "https://github.com/Deepak6204/real-time-chat-app",
       "demo": "#",
       "category": "fullstack"
     },
